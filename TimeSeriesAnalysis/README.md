@@ -1,5 +1,4 @@
 # Time Series Analysis
-# **Time Series Analysis**
 
 ## **Overview**
 The **TimeSeriesAnalysis** directory showcases projects focused on analyzing time-series data to uncover patterns, detect anomalies, and forecast trends. These projects apply statistical techniques like Moving Averages (MA) and Exponential Moving Averages (EMA) to address real-world problems in financial risk assessment and structural monitoring.
