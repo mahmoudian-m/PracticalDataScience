@@ -25,6 +25,7 @@ I aim to share projects that are not only technically sound but also applicable 
 - Insights into how these techniques can be applied in industry contexts.
 
 ## Connect With Me
+- Mahmoudian.m1991@gmail.com
 - [LinkedIn](http://linkedin.com/in/mostafa-mahmoudian-854473164)
 - [Kaggle](https://www.kaggle.com/mostafamahmoudian)
 - [Medium](https://medium.com/@mahmoudian.m)
