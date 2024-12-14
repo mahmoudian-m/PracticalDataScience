@@ -68,6 +68,6 @@ This project focuses on calculating moving averages (MA) and exponential moving 
 ## ** Dataset**
 The dataset used for this analysis, rejected_2007_to_2018Q4.csv, contains loan application data from 2007 to 2018. You can access it directly from Kaggle:
 
-Loan Application Data: 2007-2018 on Kaggle
+[Loan Application Data: 2007-2018 on Kaggle](https://www.kaggle.com/datasets/mostafamahmoudian/loan-data)
 
 ---
