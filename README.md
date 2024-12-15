@@ -26,7 +26,7 @@ I aim to share projects that are not only technically sound but also applicable 
 
 ## Connect With Me
 - Mahmoudian.m1991@gmail.com
-- [LinkedIn](http://linkedin.com/in/mostafa-mahmoudian-854473164)
+- [LinkedIn](https://linkedin.com/in/mostafa-mahmoudian-854473164)
 - [Kaggle](https://www.kaggle.com/mostafamahmoudian)
 - [Medium](https://medium.com/@mahmoudian.m)
 - [GitHub](https://github.com/mahmoudian-m)
