@@ -11,3 +11,12 @@ The **TimeSeriesAnalysis** directory showcases projects focused on analyzing tim
   - Python and Bash scripts for extracting and analyzing financial data.
   - MA50 and EMA50 calculations provide smoothed trends for better decision-making.
 - **Applications:** Financial institutions can use this analysis to identify risk trends and improve lending strategies.
+
+### **2. Stationarity in Time Series**
+- **Purpose:** Explore the concept of stationarity, why it is essential, and how to visualize and test for it.
+- **Techniques:**
+  - Visualizations
+  	- Line Plot
+	- ACF/PACF
+	- Rolling Statistics 
+  - Augmented Dickey-Fuller (ADF) test
